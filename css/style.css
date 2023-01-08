@@ -1,0 +1,185 @@
+/* Banner Part Starts Here..................................................... */
+#banner_part{
+    background: url(../images/banner2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    display: flex
+}
+.banner_text{
+    text-align: right;
+    margin-left: 800px;
+}
+.banner_text h1{
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.banner_text p{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+    margin-bottom: 50px;
+}
+.banner_text a{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    background-color: rgb(226, 84, 19);
+    padding: 15px 20px;
+    text-decoration: none;
+    color: #fff;
+}
+/* Banner Part End Here............................................... */
+
+/* Banner Part Starts Here............................................... */
+#success_part{
+    padding-bottom: 100px;
+}
+.success_story{
+    display: flex;
+}
+.img_part{
+    margin-left: 100px;
+}
+.text_part{
+    margin-top: 175px;
+    margin-left: 100px;
+}
+.success_story h3{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.success_story p{
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+}
+span{
+    margin-left: 10px;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+}
+
+
+/* success Part End Here............................................... */
+
+
+/* Plan Part Starts Here............................................... */
+.heading h3{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.my_plan{
+    display: flex;
+    margin-left: 150px;
+    text-align: center;
+}
+.text h3{
+    font-size: 23px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.icon_one{
+    margin-left: 85px;
+}
+/* Plan Part End Here............................................... */
+
+/* Positive Part Starts Here............................................... */
+#posi{
+    margin-top: 60px;
+    background-image: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 70%;
+}
+.positive{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-position: center;
+    background-repeat: no-repeat;
+    align:center;
+    background-size: 70%;
+    background-image: linear-gradient(to right, rgba(240, 66, 23, 0.466) , rgba(255, 255, 2, 0.11)) ;
+}
+.positive_text h3{
+    margin-left: 270px;
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.positive_text a{
+    margin-left: 270px;
+    color: rgb(185, 126, 16);
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    background: #fff;
+    padding: 12px 15px;
+    text-decoration: none;
+}
+
+/* Positive Part End Here............................................... */
+
+/* Footer Part Starts Here............................................... */
+#foot_sec{
+    background-color: #000;
+    margin-top: 40px;
+}
+.footer{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    display: flex;
+}
+.left_footer h3{
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.left_footer{
+    color: #fff;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+    line-height: 22px;
+}
+.right{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.right input{
+    color: #fff;
+    background: #000;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+}
+.right h3{
+    color: #fff;
+    font-size: 30px;
+}
+.right a{
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    color: red;
+    text-decoration: none;
+    background: #fff;
+    padding: 12px 18px;
+    border-radius: 5px;
+}
+/* Footer Part End Here............................................... */
+
